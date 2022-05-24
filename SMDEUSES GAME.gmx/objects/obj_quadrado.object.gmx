@@ -55,6 +55,8 @@ pulo = 0;
             <kind>1</kind>
             <string>dir=0;
 
+//teste github mude agora!
+
 //Estado
 
 script_execute(estado);
